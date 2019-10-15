@@ -3,5 +3,8 @@
 ## Resources
 
 * [Guide Book](http://mobprogrammingguidebook.com)
-* [Facilitors Guide](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide/blob/master/MobProgrammingFacilitorsGuide_English.md)
+* [Facilitors Guide](https://github.com/isidore/Talks/blob/master/How_to_Facilitate_Mob_Programming_as_a_Less_Technical_Coach.md)
+* [Slides](https://www.slideshare.net/llewellynfalco/mob-programming-75601033)
+
+
 
