@@ -1,4 +1,4 @@
-# # The ROI on Learning Hour
+# The ROI on Learning Hour
 
 ## Talk Resources
 
