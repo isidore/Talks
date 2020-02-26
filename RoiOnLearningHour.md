@@ -1,4 +1,4 @@
-# Lessons learned from 'The Phoenix Project' & 'The Goal'
+# # The ROI on Learning Hour
 
 ## Talk Resources
 
