@@ -1,7 +1,7 @@
 # How to setup Remote Pairing & Mobbing
 
 ## Talk Resources
-* [Slides](Slides/How To Setup Remote Pairing & Mobibing.pptx)
+* [Slides](https://github.com/isidore/Talks/raw/master/Slides/How%20To%20Setup%20Remote%20Pairing%20%26%20Mobibing.pptx)
 
 ### Screen Sharing
 * [Zoom](https://zoom.us/)
