@@ -3,13 +3,13 @@
 ## Talk Resources
 
 ### Onsite Customer
-[]()
-Lean Software Development by Mary Poppendieck  
-www.industrialxp.org/sittingTogether.html  
+Book: [Lean Software Development by Mary Poppendieck](https://www.goodreads.com/en/book/show/194338.Lean_Software_Development)  
+
+Website: [Sitting Together](www.industrialxp.org/sittingTogether.html)
 
 ### Pair / Mob Programming
-Pair Programming Illuminated by Laurie Williams  
-mobprogrammingguidebook.com   
+Book: [Pair Programming Illuminated by Laurie Williams](https://www.goodreads.com/book/show/1762375.Pair_Programming_Illuminated) 
+Book: [The Mob Programming Guidebook](https://www.mobprogrammingguidebook.com)   
 
 
 ### Refactoring
