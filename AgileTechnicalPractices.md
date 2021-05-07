@@ -13,19 +13,20 @@ Book: [The Mob Programming Guidebook](https://www.mobprogrammingguidebook.com)
 
 
 ### Refactoring
-Working Effectively w/Legacy Code by Michael Feathers  
-Clean Code by Robert Martin  
+Book: [Working Effectively w/Legacy Code by Michael Feathers](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+Book: [Clean Code by Robert Martin](https://www.goodreads.com/book/show/3735293-clean-code)  
 
 ### Continuous Integration
-Github Actions  
-The Pheonix Project  
+CI: [Github Actions](https://github.com/features/actions )
+Book: [The Pheonix Project by Gene Kim](https://itrevolution.com/the-phoenix-project/)
 
 ### Test Driven Development
-Test Driven Development, Kent Beck  
+Book: [Test Driven Development, Kent Beck](https://www.goodreads.com/book/show/387190.Test_Driven_Development)  
+
 
 ### Iterative Development
-Agile Retrospectives, Esther Derby  
-Succeeding with Agile, Mike Cohn  
+Book: [Agile Retrospectives, Esther Derby](https://www.goodreads.com/book/show/721338.Agile_Retrospectives)  
+Book: [Succeeding with Agile, Mike Cohn](https://www.goodreads.com/book/show/6707987-succeeding-with-agile)
 
 
 
