@@ -4,28 +4,28 @@
 
 ### Onsite Customer
 []()
-Lean Software Development by Mary Poppendieck
-www.industrialxp.org/sittingTogether.html
+Lean Software Development by Mary Poppendieck  
+www.industrialxp.org/sittingTogether.html  
 
 ### Pair / Mob Programming
-Pair Programming Illuminated by Laurie Williams
-mobprogrammingguidebook.com 
+Pair Programming Illuminated by Laurie Williams  
+mobprogrammingguidebook.com   
 
 
 ### Refactoring
-Working Effectively w/Legacy Code by Michael Feathers
-Clean Code by Robert Martin
+Working Effectively w/Legacy Code by Michael Feathers  
+Clean Code by Robert Martin  
 
 ### Continuous Integration
-Github Actions
-The Pheonix Project
+Github Actions  
+The Pheonix Project  
 
 ### Test Driven Development
-Test Driven Development, Kent Beck
+Test Driven Development, Kent Beck  
 
 ### Iterative Development
-Agile Retrospectives, Esther Derby
-Succeeding with Agile, Mike Cohn
+Agile Retrospectives, Esther Derby  
+Succeeding with Agile, Mike Cohn  
 
 
 
