@@ -1,6 +1,7 @@
 # Agile Technical Practices
 
 ## Talk Resources
+[Video of this Talk at Scan-Agile 2015](https://youtu.be/yDBOSKZ5k1g)
 
 ### Onsite Customer
 Book: [Lean Software Development by Mary Poppendieck](https://www.goodreads.com/en/book/show/194338.Lean_Software_Development)  
