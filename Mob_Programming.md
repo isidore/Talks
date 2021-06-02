@@ -3,7 +3,7 @@
 ## Talk Resources
 
 * [Guide Book](http://mobprogrammingguidebook.com)
-* [Facilitors Guide](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide)
+* [Facilitators Guide](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide)
 * [Slides](https://www.slideshare.net/llewellynfalco/mob-programming-75601033)
 * [Video](https://www.infoq.com/presentations/mob-programming/)
 * [Timelapse Video (original)](https://www.youtube.com/watch?v=p_pvslS4gEI)
