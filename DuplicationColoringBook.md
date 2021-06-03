@@ -18,9 +18,5 @@
 * [Exercise 2 - Variables](https://www.youtube.com/watch?v=Fw-knDwOZTU)
 
 
-## Llewellyn's
-* [Blog](http://llewellynfalco.blogspot.com/)
-* [ApprovalTests](https://github.com/approvals/)
-* [YouTube](https://www.youtube.com/user/isidoreus/videos)
-* [Twitch](https://www.twitch.tv/llewellynfalco)
+include: llewellyn.md
 

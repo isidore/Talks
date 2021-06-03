@@ -5,3 +5,5 @@
 * [YouTube](https://www.youtube.com/user/isidoreus/videos)
 * [Twitch](https://www.twitch.tv/llewellynfalco)
 * [Learn With Llew](https://github.com/LearnWithLlew)
+
+I'm a Technical Agile Coach, you can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
