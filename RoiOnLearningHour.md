@@ -13,4 +13,12 @@
 * [Visual Thinking Strategies](https://vtshome.org/)
 * [Self Learning in Groups - Hole in the wall, skip the first 6 minutes)[https://www.ted.com/talks/sugata_mitra_kids_can_teach_themselves?language=en]
 
-include: llewellyn.md
+## Llewellyn's <!-- include: llewellyn.md -->
+
+* [Blog](http://llewellynfalco.blogspot.com/)
+* [ApprovalTests](https://github.com/approvals/)
+* [YouTube](https://www.youtube.com/user/isidoreus/videos)
+* [Twitch](https://www.twitch.tv/llewellynfalco)
+* [Learn With Llew](https://github.com/LearnWithLlew)
+
+I'm a Technical Agile Coach, you can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html) <!-- endInclude -->
