@@ -37,8 +37,5 @@
 * [MindMup Retro starter](https://app.mindmup.com/map/new)
 
 
-## Llewellyn's
-* [Blog](http://llewellynfalco.blogspot.com/)
-* [ApprovalTests](https://github.com/approvals/)
-* [YouTube](https://www.youtube.com/user/isidoreus/videos)
+include: llewellyn.md
 

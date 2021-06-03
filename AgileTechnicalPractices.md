@@ -30,10 +30,4 @@ Book: [Succeeding with Agile, Mike Cohn](https://www.goodreads.com/book/show/670
 
 
 
-## Llewellyn's
-* [Sept 2020 C++ Testing Legacy code course](https://claremacrae.co.uk/blog/2020/07/approvaltests-training-course)
-
-* [Blog](http://llewellynfalco.blogspot.com/)
-* [ApprovalTests](https://github.com/approvals/)
-* [YouTube](https://www.youtube.com/user/isidoreus/videos)
-
+include: llewellyn.md
