@@ -1,12 +1,13 @@
 # Patterns: Many of One
 
 ## Talk Resources
-* [Slides](https://github.com/LearnWithLlew/ManyOfOne.slides/blob/master/Patterns-ManyOfOne.pptx)
+* [Slides](https://github.com/isidore/Talks/blob/master/Slides/Patterns-ManyOfOne.pptx)
 * [Workshop Code - .Net](https://github.com/LearnWithLlew/ManyOfOne.Net)
 * [Workshop Code - Java](https://github.com/LearnWithLlew/ManyOfOne.Java)
 * [Guide Book](http://mobprogrammingguidebook.com)
 * [Arlo’s Git Notation](https://github.com/RefactoringCombos)  
 * [Provable Refactoring Recipes](https://github.com/InnovatingTeams/provable-refactorings)
+* [Test/Commit/Revert for Junit](https://github.com/LarsEckart/tcr-extension)  
 * Video: [Extreme Fake it till you make it](https://youtu.be/O1h9ho2G85Q)  
 
 
