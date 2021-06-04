@@ -3,6 +3,7 @@
 ## Talk Resources
 * [Slides](https://github.com/LearnWithLlew/ManyOfOne.slides/blob/master/Patterns-ManyOfOne.pptx)
 * [Workshop Code - .Net](https://github.com/LearnWithLlew/ManyOfOne.Net)
+* [Workshop Code - Java](https://github.com/LearnWithLlew/ManyOfOne.Java)
 * [Guide Book](http://mobprogrammingguidebook.com)
 
 
