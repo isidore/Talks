@@ -38,4 +38,5 @@ Book: [Succeeding with Agile, Mike Cohn](https://www.goodreads.com/book/show/670
 * [Twitch](https://www.twitch.tv/llewellynfalco)
 * [Learn With Llew](https://github.com/LearnWithLlew)
 
-I'm a Technical Agile Coach, you can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html) <!-- endInclude -->
+I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
+ <!-- endInclude -->
