@@ -5,7 +5,9 @@
 * [Workshop Code - .Net](https://github.com/LearnWithLlew/ManyOfOne.Net)
 * [Workshop Code - Java](https://github.com/LearnWithLlew/ManyOfOne.Java)
 * [Guide Book](http://mobprogrammingguidebook.com)
-
+* [Arlo’s Git Notation](https://github.com/RefactoringCombos)  
+* [Provable Refactoring Recipes](https://github.com/InnovatingTeams/provable-refactorings)
+* Video: [Extreme Fake it till you make it](https://youtu.be/O1h9ho2G85Q)  
 
 
 ## Llewellyn's <!-- include: llewellyn.md -->
