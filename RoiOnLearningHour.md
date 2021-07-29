@@ -4,7 +4,9 @@
 
 * [Learning Hour Topics](https://github.com/isidore/FalcoTechnicalCoachingFramework/blob/master/LearningHourTopics.md)
 * [Podcast on Thresholds]( http://revisionisthistory.com/episodes/03-the-big-man-cant-shoot)
-* [Slides](https://www.slideshare.net/llewellynfalco/roi-on-learning-hour)
+* Slides:
+  * [Slideshare](https://www.slideshare.net/llewellynfalco/roi-on-learning-hour)
+  * [Powerpoint](https://github.com/isidore/Talks/blob/master/Slides/ROI%20on%20Learning%20Hour.pptx)
 * [Great Tech Talks](http://llewellynfalco.blogspot.com/p/great-technical-talks.html)
 * [10x](https://www.youtube.com/watch?v=1Bv1-6EX70s)
 * [Mob Programming Guide Book](http://mobprogrammingguidebook.com)
