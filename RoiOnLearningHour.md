@@ -12,6 +12,7 @@
 * [Book - The Power of Habit](https://www.amazon.com/dp/B007EJSMC8)
 * [Visual Thinking Strategies](https://vtshome.org/)
 * [Self Learning in Groups - Hole in the wall, skip the first 6 minutes)[https://www.ted.com/talks/sugata_mitra_kids_can_teach_themselves?language=en]
+* [Technical Agile Coaching with the Samman method by Emily Bache](https://leanpub.com/techagilecoach)
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
