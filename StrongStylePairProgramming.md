@@ -8,7 +8,7 @@
 * [Pair Programming Illuminated by Laurie Williams](https://www.amazon.com/dp/0201745763/)
 * [Woody Zuill talking about mob programming](https://www.youtube.com/watch?v=SHOVVnRB4h0)
 * [The Luck Factor by Richard Wiseman](https://www.amazon.com/dp/0786869143/)
-* [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+* [What Google Learned From Its Quest to Build the Perfect Team - Project Aristotle](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
 
 ## Llewellyn's <!-- include: llewellyn.md -->
