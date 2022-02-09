@@ -23,7 +23,7 @@
 * [Mob Programming Facilitators' Guide](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide)
 * [Book - The Power of Habit](https://www.amazon.com/dp/B007EJSMC8)
 * [Visual Thinking Strategies](https://vtshome.org/)
-* (Self Learning in Groups, Hole in the wall)[https://www.ted.com/talks/sugata_mitra_kids_can_teach_themselves?language=en] (Skip the first 6 minutes)
+* [Self Learning in Groups, Hole in the wall](https://www.ted.com/talks/sugata_mitra_kids_can_teach_themselves?language=en) (Skip the first 6 minutes)
 * [Technical Agile Coaching with the Samman method by Emily Bache](https://leanpub.com/techagilecoach)
 * [Samman Method Website](https://www.sammancoaching.org/)
 
