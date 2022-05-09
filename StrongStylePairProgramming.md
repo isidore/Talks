@@ -2,6 +2,7 @@
 
 ## Talk Resources
 * [Slides](https://github.com/isidore/Talks/raw/master/Slides/Pair%20Programming.pptx)
+* [Video from CodeFreeze2022](https://vimeo.com/675650906)
 * [Original Blog](http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html)
 * [Bryan Beecham's experience](https://llewellynfalco.blogspot.com/2016/06/interview-with-bryan-beecham-about.html)
 * [The waste of pair programming](https://llewellynfalco.blogspot.com/2011/04/value-of-pair-programming.html)
