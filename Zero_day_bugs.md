@@ -10,6 +10,7 @@
 * Dependabot
   *  [Automerge Code In Github Action](https://github.com/approvals/Approvaltests.Kotlin.StarterProject/blob/main/.github/workflows/test.yml#L18-L33)
   *  [Merge Pull Request Script](https://github.com/approvals/Approvaltests.Kotlin.StarterProject/blob/main/merge_dependabot.sh)
+  * [30% of Log4j remains unpatched](https://thenewstack.io/30-of-apache-log4j-security-holes-remain-unpatched/)
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
