@@ -10,6 +10,7 @@
 * [Log4J exploit](https://en.wikipedia.org/wiki/Log4Shell)
 * [Log4J Lookups](https://logging.apache.org/log4j/2.x/manual/lookups.html)
 * [List of Biggest Data breaches](https://www.upguard.com/blog/biggest-data-breaches)
+* [Log4J usage](https://blog.sonatype.com/why-did-log4shell-set-the-internet-on-fire)
 * Dependabot
   *  [Automerge Code In Github Action](https://github.com/approvals/Approvaltests.Kotlin.StarterProject/blob/main/.github/workflows/test.yml#L18-L33)
   *  [Merge Pull Request Script](https://github.com/approvals/Approvaltests.Kotlin.StarterProject/blob/main/merge_dependabot.sh)
