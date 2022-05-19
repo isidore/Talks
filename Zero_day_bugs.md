@@ -8,11 +8,13 @@
   * [Log4J exploit Explained](https://www.youtube.com/watch?v=0-abhd-CLwQ)
   * [Rick Roll](https://youtu.be/dQw4w9WgXcQ)
 * [Log4J exploit](https://en.wikipedia.org/wiki/Log4Shell)
+* [Log4J Lookups](https://logging.apache.org/log4j/2.x/manual/lookups.html)
+* [List of Biggest Data breaches](https://www.upguard.com/blog/biggest-data-breaches)
 * Dependabot
   *  [Automerge Code In Github Action](https://github.com/approvals/Approvaltests.Kotlin.StarterProject/blob/main/.github/workflows/test.yml#L18-L33)
   *  [Merge Pull Request Script](https://github.com/approvals/Approvaltests.Kotlin.StarterProject/blob/main/merge_dependabot.sh)
   * [30% of Log4j remains unpatched](https://thenewstack.io/30-of-apache-log4j-security-holes-remain-unpatched/)
-  * [Arlo's Ask Me Anything](https://www.eventbrite.com/e/ask-me-anything-on-legacy-code-whiskey-hour-with-arlo-registration-324156890987) Thursday, May 26th
+* [Arlo's Ask Me Anything](https://www.eventbrite.com/e/ask-me-anything-on-legacy-code-whiskey-hour-with-arlo-registration-324156890987) Thursday, May 26th
 ## Llewellyn's <!-- include: llewellyn.md -->
 
 * [Blog](http://llewellynfalco.blogspot.com/)
