@@ -3,7 +3,7 @@
 ## Talk Resources
 
 * [Slides](https://github.com/isidore/Talks/raw/master/Slides/Zero%20day%20bugs.pptx)
-* Video's
+* Videos
   * [Unix polkit Exploit](https://www.youtube.com/watch?v=eTcVLqKpZJc)
   * [Log4J exploit Explained](https://www.youtube.com/watch?v=0-abhd-CLwQ)
   * [Rick Roll](https://youtu.be/dQw4w9WgXcQ)
