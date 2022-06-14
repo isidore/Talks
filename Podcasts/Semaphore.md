@@ -8,7 +8,15 @@
 *  **[ApprovalTests](https://approvaltests.com/)**
    * [Intro videos for .net](https://www.youtube.com/watch?v=bg8GOmlwqYY&list=PL0C32F89E8BBB5368)
    * [C++ turtorial](https://approvaltestscpp.readthedocs.io/en/latest/generated_docs/Tutorial.html)
-*  
+*  [Slick Run](https://bayden.com/slickrun/)
+*  **People**
+   *  [Clare  Macrae](https://claremacrae.co.uk/)
+   *  [Arlo Belshee](http://arlobelshee.com/)
+   *  [Emily Bache](https://github.com/emilybache)
+   *  [Felienne Hermans](https://twitter.com/Felienne)
+* [Teaching Kids Programming](https://teachingkidsprogramming.org/)
+   * [Free Pluralsight Video](https://www.pluralsight.com/courses/teaching-kids-programming)
+* [Learn With Llew](https://github.com/LearnWithLlew)
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
