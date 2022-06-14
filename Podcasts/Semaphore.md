@@ -5,6 +5,10 @@
 *  [Mob Programming](https://github.com/isidore/Talks/blob/master/Mob_Programming.md)
 *  [Samman Coaching](https://sammancoaching.org/)
 *  [Calargy Software Crafters User Group](https://www.meetup.com/calgary-software-crafters/?_cookie-check=SClRVWCk8P1fJ9rG)
+*  **[ApprovalTests](https://approvaltests.com/)**
+   * [Intro videos for .net](https://www.youtube.com/watch?v=bg8GOmlwqYY&list=PL0C32F89E8BBB5368)
+   * [C++ turtorial](https://approvaltestscpp.readthedocs.io/en/latest/generated_docs/Tutorial.html)
+*  
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
