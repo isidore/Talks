@@ -17,6 +17,7 @@
 * [Teaching Kids Programming](https://teachingkidsprogramming.org/)
    * [Free Pluralsight Video](https://www.pluralsight.com/courses/teaching-kids-programming)
 * [Learn With Llew](https://github.com/LearnWithLlew)
+* [Ruby Koans](http://rubykoans.com/)
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
