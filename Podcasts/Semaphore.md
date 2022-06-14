@@ -1,6 +1,10 @@
 # Semaphore Podcast Show Notes
 
-
+* [The Podcast](https://semaphoreci.com/blog/llewellyn-falco-mob-programming)
+*  [Strong Style Pairing](https://github.com/isidore/Talks/blob/master/StrongStylePairProgramming.md)
+*  [Mob Programming](https://github.com/isidore/Talks/blob/master/Mob_Programming.md)
+*  [Samman Coaching](https://sammancoaching.org/)
+*  [Calargy Software Crafters User Group](https://www.meetup.com/calgary-software-crafters/?_cookie-check=SClRVWCk8P1fJ9rG)
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
