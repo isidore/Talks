@@ -26,3 +26,6 @@
 
 I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
  <!-- endInclude -->
+
+## Given at:
+* 2022-06-09 [Craft](https://craft-conf.com/) - [Video](https://www.youtube.com/watch?v=uRP4BO8pA8M)
