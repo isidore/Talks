@@ -21,3 +21,5 @@
 I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
  <!-- endInclude -->
 
+## Given At
+* Craft - [Video](https://www.youtube.com/watch?v=wp6oSVDdbXQ)
