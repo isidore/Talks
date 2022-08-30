@@ -3,6 +3,7 @@
 ## Talk Resources
 
 * [Slides](https://github.com/isidore/Talks/blob/master/Slides/Remote%20Mob%20Programming.pptx)
+8 [ApprovalTests.Python Weekly Mob](https://github.com/approvals/ApprovalTests.Python/blob/main/docs/Contribute.md#join-our-weekly-mobbing-sessions)
 * Book - [The Enigma of Reason](https://www.amazon.com/Enigma-Reason-Hugo-Mercier/dp/0674368304)
 * [Guide Book](http://mobprogrammingguidebook.com)
 * [Facilitators Guide](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide)
