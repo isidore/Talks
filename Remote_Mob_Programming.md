@@ -2,9 +2,10 @@
 
 ## Talk Resources
 
+* [Slides](https://github.com/isidore/Talks/blob/master/Slides/Remote%20Mob%20Programming.pptx)
+* Book - [The Enigma of Reason](https://www.amazon.com/Enigma-Reason-Hugo-Mercier/dp/0674368304)
 * [Guide Book](http://mobprogrammingguidebook.com)
 * [Facilitators Guide](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide)
-* [Slides]()
 * Tools
   * Audio/Video - [ Zoom]()
   * Screen Sharing - [Anydesk]()
