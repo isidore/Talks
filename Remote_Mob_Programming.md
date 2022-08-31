@@ -7,6 +7,7 @@
 * Book - [The Enigma of Reason](https://www.amazon.com/Enigma-Reason-Hugo-Mercier/dp/0674368304)
 * [Guide Book](http://mobprogrammingguidebook.com)
 * [Facilitators Guide](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide)
+* [Mob Mentality Show](https://www.youtube.com/channel/UCgt1lVMrdwlZKBaerxxp2iQ)
 * Tools
   * Audio/Video - [ Zoom]()
   * Screen Sharing - [Anydesk]()
