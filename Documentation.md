@@ -1,6 +1,7 @@
 # Documentation
 ## Talk Resources
 
+* [Slides](https://github.com/isidore/Talks/blob/master/Slides/Documentation.pptx)
 * [Daniele Procida's theory of documentation](https://documentation.divio.com/)
 * [MdSnippets](http://mdsnippets.com/)
 * [MdSnippets Github Action](https://github.com/approvals/ApprovalTests.Java/blob/master/.github/workflows/updateMarkdown.yml#L1)
