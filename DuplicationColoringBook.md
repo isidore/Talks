@@ -14,12 +14,12 @@
 
 ## Videos
 
-* [Slides]()
-* [PrintOuts]()
-* [Java]()
-* [Javascript]()
-* [Exercise 1 - Simple](https://www.youtube.com/watch?v=zAqv7jyd6nw&list=PLb4ON7iRsxZPj-xXfFLPCkQknE9rIMK1q)
-* [Exercise 2 - Variables](https://www.youtube.com/watch?v=Fw-knDwOZTU)
+* [Slides](https://github.com/isidore/Talks/blob/master/Slides/DuplicationColoringBook.pptx)
+* [PrintOuts](https://github.com/LearnWithLlew/DuplicationColoringBook/raw/master/Workshop_Printouts_Complete.pdf)
+* [Languages](https://github.com/LearnWithLlew/DuplicationColoringBook#code-exercises)
+* Videos:
+    * [Exercise 1 - Simple ](https://www.youtube.com/watch?v=zAqv7jyd6nw&list=PLb4ON7iRsxZPj-xXfFLPCkQknE9rIMK1q)
+    * [Exercise 2 - Variables](https://www.youtube.com/watch?v=Fw-knDwOZTU)
 
 
 ## Llewellyn's <!-- include: llewellyn.md -->
