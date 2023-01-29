@@ -14,6 +14,10 @@
 
 ## Videos
 
+* [Slides]()
+* [PrintOuts]()
+* [Java]()
+* [Javascript]()
 * [Exercise 1 - Simple](https://www.youtube.com/watch?v=zAqv7jyd6nw&list=PLb4ON7iRsxZPj-xXfFLPCkQknE9rIMK1q)
 * [Exercise 2 - Variables](https://www.youtube.com/watch?v=Fw-knDwOZTU)
 
