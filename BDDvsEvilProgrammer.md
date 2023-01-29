@@ -1,6 +1,6 @@
 # BDD vs Evil Programming
 ## Talk Resources
-* [Slides](https://github.com/isidore/TestDrivenDevelopmentClass.Slides/raw/main/Micro%20Api%20Design%20with%20Consume%20First.pptx)
+* [Slides](https://github.com/isidore/TestDrivenDevelopmentClass.Slides/raw/main/BDD%20vs%20Evil%20Programmer.pptx)
 
 
 ## Llewellyn's <!-- include: llewellyn.md -->
