@@ -2,9 +2,11 @@
 
 ## Talk Resources
 
-* [Slides]()
+* [Slides](https://github.com/isidore/Talks/raw/master/Slides/Lucky%20Conference.pptx)
 * [The Luck Factor](https://www.amazon.com/The-Luck-Factor-Richard-Wiseman-audiobook/dp/B015RXKBZ8/)
-
+* [10x](https://www.youtube.com/watch?v=1Bv1-6EX70s)
+* [Blog on Mob Programming](http://engineering.appfolio.com/appfolio-engineering/2014/03/17/my-experience-with-mob-programming
+)
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
