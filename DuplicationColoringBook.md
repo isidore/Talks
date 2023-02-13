@@ -14,7 +14,7 @@
 
 ## Videos
 
-* [Slides](https://github.com/isidore/Talks/blob/master/Slides/DuplicationColoringBook.pptx)
+* [Slides](https://github.com/LearnWithLlew/DuplicationColoringBook/Talks/blob/master/DuplicationColoringBook.pptx)
 * [PrintOuts](https://github.com/LearnWithLlew/DuplicationColoringBook/raw/master/Workshop_Printouts_Complete.pdf)
 * [Languages](https://github.com/LearnWithLlew/DuplicationColoringBook#code-exercises)
 * Videos:
