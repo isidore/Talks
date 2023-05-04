@@ -2,7 +2,13 @@
 
 ## Talk Resources
 
-* ![InfoGraphic]()
+![InfoGraphic](./Slides/LiftIfRefactoring.gif)
+* Steps
+  1. Get 100% code coverage
+  1. Copy in to both sides of an `if/else` statement
+  1. change conditional to separate the thread
+  1. Rerun code coverage
+  1. Delete the red (uncovered blocks)
 * Video's showing it in action:
   * [From 0% to Cleanly Refacted 100% tested code](https://www.youtube.com/watch?v=wp6oSVDdbXQ)  - Craft 2019 
 ## Llewellyn's <!-- include: llewellyn.md -->
