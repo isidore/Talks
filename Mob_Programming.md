@@ -15,7 +15,7 @@
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
-* [Blog](http://llewellynfalco.blogspot.com/)
+* [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
 * [YouTube](https://www.youtube.com/user/isidoreus/videos)
 * [Twitch](https://www.twitch.tv/llewellynfalco)
