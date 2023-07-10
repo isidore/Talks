@@ -2,12 +2,10 @@
 
 ## Talk Resources
 
-* Slides [PowerPoint](https://github.com/LearnWithLlew/RefactoringToCleanerCode.Slides/blob/main/RefactoringToCleanerCode.pptx) , [Pdf](https://github.com/LearnWithLlew/RefactoringToCleanerCode.Slides/blob/main/RefactoringToCleanerCode.pdf)
+* Slides [[PowerPoint](https://github.com/LearnWithLlew/RefactoringToCleanerCode.Slides/blob/main/RefactoringToCleanerCode.pptx), [Pdf](https://github.com/LearnWithLlew/RefactoringToCleanerCode.Slides/blob/main/RefactoringToCleanerCode.pdf)]
 * [Code](https://github.com/LearnWithLlew/RefactoringToCleanerCode.Slides/blob/main/README.md#code)
-* [Arlo Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation/)
+* [Arlo's Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation/)
 * [Test Commit Revert](https://github.com/LarsEckart/tcr-extension)
-
-
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
