@@ -6,7 +6,10 @@
 * [Code](https://github.com/LearnWithLlew/RefactoringToCleanerCode.Slides/blob/main/README.md#code)
 * [Arlo Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation/)
 * [Test Commit Revert](https://github.com/LarsEckart/tcr-extension)
+* [Mob Programming Resources](./Mob_Programming.md)
 
+## Code for Sessions
+* [Agile2023](https://github.com/LearnWithLlew/RefactoringToCleanerCode.java/commits/2023-07-27-Agile)
 
 
 ## Llewellyn's <!-- include: llewellyn.md -->
