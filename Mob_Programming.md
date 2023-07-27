@@ -11,7 +11,7 @@
 * [Woody Zuill talking about mob programming](https://www.youtube.com/watch?v=SHOVVnRB4h0)
 * [Strong Style Pair Programming](http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html)
 * [MindMup Retro starter](https://t.co/kvp1nCI94P?amp=1)
-
+* [Mob Programming Pattern Langugage](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
 
 ## Llewellyn's <!-- include: llewellyn.md -->
 
