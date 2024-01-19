@@ -12,7 +12,7 @@
 * Video's showing it in action:
   * [From 0% to Cleanly Refacted 100% tested code](https://www.youtube.com/watch?v=wp6oSVDdbXQ)  - Craft 2019 
 * [How to make intellij display full colored lines](https://stackoverflow.com/questions/32907247/how-to-make-intellij-idea-coverage-display-full-colored-lines)
-## Llewellyn's <!-- include: llewellyn.md -->
+## Llewellyn's<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
@@ -21,7 +21,7 @@
 * [Learn With Llew](https://github.com/LearnWithLlew)
 
 I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
- <!-- endInclude -->
+<!-- endInclude -->
 
 ## Given at:
 * 2022-06-09 [Craft](https://craft-conf.com/) - [Video](https://www.youtube.com/watch?v=uRP4BO8pA8M)
