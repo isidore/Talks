@@ -11,7 +11,7 @@
 * [Slides](https://github.com/isidore/Talks/blob/master/Slides/Lessons%20learned%20from%20The%20Phoenix%20Project%20and%20The%20Goal.pptx?raw=true)
 
 
-## Llewellyn's <!-- include: llewellyn.md -->
+## Llewellyn's<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
@@ -20,4 +20,4 @@
 * [Learn With Llew](https://github.com/LearnWithLlew)
 
 I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
- <!-- endInclude -->
+<!-- endInclude -->
