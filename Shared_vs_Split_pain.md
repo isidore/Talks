@@ -7,7 +7,7 @@
 
 
 
-## Llewellyn's <!-- include: llewellyn.md -->
+## Llewellyn's<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
@@ -16,5 +16,5 @@
 * [Learn With Llew](https://github.com/LearnWithLlew)
 
 I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
- <!-- endInclude -->
+<!-- endInclude -->
 
