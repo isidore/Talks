@@ -2,7 +2,7 @@
 
 ## Talk Resources
 * [Slides](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/Testing%20Better%20with%20Approvals.pptx)
-* [Code](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/src)
+* [Code](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/tree/main/src)
 * [ApprovalTests](https://github.com/approvals/)
 
 
