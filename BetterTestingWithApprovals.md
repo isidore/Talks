@@ -3,6 +3,8 @@
 ## Talk Resources
 * [Slides](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/Testing%20Better%20with%20Approvals.pptx)
 * [Code](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/src)
+* [ApprovalTests](https://github.com/approvals/)
+
 
 ## Llewellyn's<!-- include: llewellyn.md -->
 
