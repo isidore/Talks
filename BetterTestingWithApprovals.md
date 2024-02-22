@@ -7,6 +7,8 @@
 * [ApprovalTests](https://github.com/approvals/)
 
 
+
+
 ## Llewellyn's<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
@@ -22,3 +24,6 @@ I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.co
 
 * [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
 <!-- endInclude -->
+
+## Lesson's
+  ![](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/TestingBetterwithApprovals.png?raw=true)
