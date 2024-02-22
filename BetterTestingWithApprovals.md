@@ -25,5 +25,5 @@ I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.co
 * [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
 <!-- endInclude -->
 
-## Lesson's
+## SketchNotes
   ![](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/TestingBetterwithApprovals.png?raw=true)
