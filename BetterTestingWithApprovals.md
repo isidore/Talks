@@ -6,6 +6,9 @@
 * [Final Documentation](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/src/test/java/org/learnwithllew/week7/Week7.testConversations.approved.md)
 * [ApprovalTests](https://github.com/approvals/)
 
+## Videos
+
+* [Seattle Software Crafters 2024](https://www.youtube.com/watch?v=QEdpE0chA-s)
 
 
 
