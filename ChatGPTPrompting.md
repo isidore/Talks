@@ -11,6 +11,7 @@
 ](https://youtu.be/sal78ACtGTc?si=Fnfogzue8nyLu4br&t=189)
 * [Stable Diffusion Explanation - Making an AI Onlyfans with Computer Science – Nang
 ](https://youtu.be/nc9kq9ZkNV8?si=K_9JqwJ46j1B1Q6J&t=314)
+* [Refactoring Prompts](https://github.com/isidore/Refactoring.ChatGPT.Prompts)
 
 ### Rendering Tools
 
