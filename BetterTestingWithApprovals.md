@@ -2,7 +2,15 @@
 
 ## Talk Resources
 * [Slides](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/Testing%20Better%20with%20Approvals.pptx)
-* [Code](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/src)
+* [Code](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/tree/main/src)
+* [Final Documentation](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/src/test/java/org/learnwithllew/week7/Week7.testConversations.approved.md)
+* [ApprovalTests](https://github.com/approvals/)
+
+## Videos
+
+* [Seattle Software Crafters 2024](https://www.youtube.com/watch?v=QEdpE0chA-s)
+
+
 
 ## Llewellyn's<!-- include: llewellyn.md -->
 
@@ -19,3 +27,6 @@ I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.co
 
 * [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
 <!-- endInclude -->
+
+## SketchNotes
+  ![](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/TestingBetterwithApprovals.png?raw=true)
