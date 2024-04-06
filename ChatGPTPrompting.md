@@ -2,7 +2,7 @@
 
 ## Talk Resources
 
-* [Slides](https://github.com/isidore/Talks/blob/master/https://github.com/isidore/Talks/blob/749acc9b3a9e25638a0d4a4789f9fd6fdb5610f5/Slides/ChatGPT_Prompting.pptx?raw=true)
+* [Slides](https://github.com/isidore/Talks/raw/master/Slides/ChatGPT_Prompting.pptx)
 * [Meetup Video April 3 2024](https://www.youtube.com/live/O18bqBlD1Rw?si=0t_uGtfDdckZIiKE&t=925)
 
 ### Other Talks & Projects
