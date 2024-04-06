@@ -10,7 +10,9 @@
 
 * [Seattle Software Crafters 2024](https://www.youtube.com/watch?v=QEdpE0chA-s)
 
-
+## ChatGPT Prompt used to create talk images
+* [Llewellyn](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Llewllyn_chat_for_images.png)
+* [Lada]
 
 ## Llewellyn's<!-- include: llewellyn.md -->
 
