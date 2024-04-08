@@ -13,6 +13,9 @@
 * [Stable Diffusion Explanation - Making an AI Onlyfans with Computer Science – Nang
 ](https://youtu.be/nc9kq9ZkNV8?si=K_9JqwJ46j1B1Q6J&t=314)
 * [Refactoring Prompts](https://github.com/isidore/Refactoring.ChatGPT.Prompts)
+* [Vectoring Words](https://www.youtube.com/watch?v=L3D0JEA1Jdc)
+* [AI beats multiple World Records in Trackmania](https://www.youtube.com/watch?v=kojH8a7BW04)
+* [Attention Models](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 
 ### Rendering Tools
 
