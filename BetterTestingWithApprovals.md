@@ -8,6 +8,7 @@
 
 ## Videos
 
+* [Calgary Software Crafters 2024](https://www.youtube.com/watch?v=qrRt7_XH0JU)
 * [Seattle Software Crafters 2024](https://www.youtube.com/watch?v=QEdpE0chA-s)
 
 ## ChatGPT Prompt used to create talk images
