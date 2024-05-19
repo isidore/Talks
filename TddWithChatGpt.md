@@ -4,6 +4,10 @@
 * [Slides](https://github.com/LearnWithLlew/TddWithChatGPT/blob/main/slides/TDD_with_ChatGPT.pptx)
 * [Code](https://github.com/LearnWithLlew/TddWithChatGPT/)
 
+* Chat GPT Prompting [Intro Talk]
+    * [resources](https://github.com/isidore/Talks/blob/master/ChatGPTPrompting.md)
+    * [video](https://www.youtube.com/live/O18bqBlD1Rw?si=0t_uGtfDdckZIiKE&t=925)
+
 
 ### Videos
 * [2024-05-15 Meetup](https://www.youtube.com/watch?v=exD6CGWn-FQ)
