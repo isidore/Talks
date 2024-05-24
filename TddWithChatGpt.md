@@ -24,3 +24,12 @@
 
 I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
 <!-- endInclude -->
+
+
+## Description
+"In my talk, 'TDD with ChatGPT,' I do a live coding demo where I write the tests and ChatGPT writes the code. We’ll see how to break problems into bite-sized pieces, prompt with tests, and iterate based on real feedback. This session aims to show a practical, middle-ground approach to working with AI, avoiding the extremes of 'AI is useless' or 'AI is magical'."
+
+### Learning Objectives:
+* Practical TDD
+* Effective Prompting
+* Iterative Feedback
