@@ -8,6 +8,7 @@
   * [Summary Image](https://raw.githubusercontent.com/LarsEckart/tcr-extension/main/src/test/java/com/larseckart/tcr/ArloGitNotationPromptTest.testVersion2.Mac_OS_X.approved.png) 
 * [Test Commit Revert](https://github.com/LarsEckart/tcr-extension)
 * [Mob Programming Resources](./Mob_Programming.md)
+* [Homework Printouts](https://github.com/LearnWithLlew/RefactoringToCleanerCode.Slides/blob/main/Homework%20Printouts.pdf)
 
 ## Code from Sessions
 * [Agile2023](https://github.com/LearnWithLlew/RefactoringToCleanerCode.java/commits/2023-07-27-Agile)

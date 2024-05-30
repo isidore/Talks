@@ -2,7 +2,8 @@
 
 ## Talk Resources
 
-* [Slides](https://github.com/isidore/Talks/blob/master/https://github.com/isidore/Talks/blob/749acc9b3a9e25638a0d4a4789f9fd6fdb5610f5/Slides/ChatGPT_Prompting.pptx?raw=true)
+* [Slides](https://github.com/isidore/Talks/raw/master/Slides/ChatGPT_Prompting.pptx)
+* [Video - Youtube - Meetup - 2024-04-03](https://www.youtube.com/live/O18bqBlD1Rw?si=0t_uGtfDdckZIiKE&t=925)
 
 ### Other Talks & Projects
 
@@ -11,7 +12,11 @@
 ](https://youtu.be/sal78ACtGTc?si=Fnfogzue8nyLu4br&t=189)
 * [Stable Diffusion Explanation - Making an AI Onlyfans with Computer Science – Nang
 ](https://youtu.be/nc9kq9ZkNV8?si=K_9JqwJ46j1B1Q6J&t=314)
+* [Generative Fill with Photoshop](https://www.youtube.com/watch?v=a3LXB-lA-Qw&t=602s)
 * [Refactoring Prompts](https://github.com/isidore/Refactoring.ChatGPT.Prompts)
+* [Vectoring Words](https://www.youtube.com/watch?v=L3D0JEA1Jdc)
+* [AI beats multiple World Records in Trackmania](https://www.youtube.com/watch?v=kojH8a7BW04)
+* [Attention Models](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 
 ### Rendering Tools
 

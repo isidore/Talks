@@ -8,9 +8,13 @@
 
 ## Videos
 
+* [Calgary Software Crafters 2024](https://www.youtube.com/watch?v=TTDT2arrvpY)
 * [Seattle Software Crafters 2024](https://www.youtube.com/watch?v=QEdpE0chA-s)
 
-
+## ChatGPT Prompt used to create talk images
+* [Llewellyn - Images](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Llewellyn_chat_gpt_for_images.png)
+* [Lada - Images](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Lada_chat_gpt_for_images.png)
+* [Lada - Code Trie](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Lada_chat_gpt_for_code.pdf)
 
 ## Llewellyn's<!-- include: llewellyn.md -->
 
