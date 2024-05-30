@@ -13,8 +13,15 @@
 * [2024-05-15 Meetup](https://www.youtube.com/watch?v=exD6CGWn-FQ)
 
 ## Related Talks
-include: ai.md
-include: tdd.md
+### AI Talks<!-- include: ai.md -->
+* [Tdd With ChatGPT](TddWithChatGpt.md)
+* [ChatGPT Prompting](ChatGPTPrompting.md)<!-- endInclude -->
+### TDD Talks<!-- include: tdd.md -->
+* [Tdd With ChatGPT](TddWithChatGpt.md)
+* [Agile Technical Practices](AgileTechnicalPractices.md)
+* [BDD vs Evil Programmer](BDDvsEvilProgrammer.md)
+* [English to Code](EnglishToCode.md)
+* [Fake it Till you Make it](FakeItTillYouMakeIt.md)<!-- endInclude -->
 
 ## Llewellyn's<!-- include: llewellyn.md -->
 
