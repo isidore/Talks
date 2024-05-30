@@ -12,7 +12,9 @@
 ### Videos
 * [2024-05-15 Meetup](https://www.youtube.com/watch?v=exD6CGWn-FQ)
 
-
+## Related Talks
+include: ai.md
+include: tdd.md
 
 ## Llewellyn's<!-- include: llewellyn.md -->
 
