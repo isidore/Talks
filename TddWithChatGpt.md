@@ -7,7 +7,7 @@
 * Chat GPT Prompting [Intro Talk]
     * [resources](https://github.com/isidore/Talks/blob/master/ChatGPTPrompting.md)
     * [video](https://www.youtube.com/live/O18bqBlD1Rw?si=0t_uGtfDdckZIiKE&t=925)
- * [OpenAI's secert prompt](https://www.youtube.com/watch?v=iSksfyMCtUA)
+ * [OpenAI's secret prompt](https://www.youtube.com/watch?v=iSksfyMCtUA)
  * [Refactoring Prompts](https://github.com/isidore/Refactoring.ChatGPT.Prompts)
 
 
