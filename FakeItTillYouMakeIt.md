@@ -10,7 +10,7 @@
 * [Arlo Commit Notation](https://github.com/RefactoringCombos/ArlosCommitNotation)
 
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

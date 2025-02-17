@@ -30,7 +30,7 @@ Book: [Succeeding with Agile, Mike Cohn](https://www.goodreads.com/book/show/670
 
 
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

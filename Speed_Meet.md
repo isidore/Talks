@@ -9,7 +9,7 @@
 * []()
 * [Management 3.0 - Jurgen Appelo](https://management30.com/books/management30/)
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

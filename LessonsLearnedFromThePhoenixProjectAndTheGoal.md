@@ -11,7 +11,7 @@
 * [Slides](https://github.com/isidore/Talks/blob/master/Slides/Lessons%20learned%20from%20The%20Phoenix%20Project%20and%20The%20Goal.pptx?raw=true)
 
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

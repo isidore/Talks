@@ -7,7 +7,7 @@
 * [Slides](https://www.slideshare.net/llewellynfalco/mob-programming-75601033)
 
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
