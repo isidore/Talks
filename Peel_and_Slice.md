@@ -6,7 +6,7 @@
 * [Code](https://github.com/jason-kerney/PeelAndSlice#languages)
 * [Videos](https://github.com/jason-kerney/PeelAndSlice#videos)
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

@@ -16,7 +16,7 @@
 * [Lada - Images](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Lada_chat_gpt_for_images.png)
 * [Lada - Code Trie](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Lada_chat_gpt_for_code.pdf)
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

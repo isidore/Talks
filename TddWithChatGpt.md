@@ -25,7 +25,7 @@
 * [English to Code](EnglishToCode.md)
 * [Fake it Till you Make it](FakeItTillYouMakeIt.md)<!-- endInclude -->
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

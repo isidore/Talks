@@ -8,7 +8,7 @@
 * [Blog on Mob Programming](http://engineering.appfolio.com/appfolio-engineering/2014/03/17/my-experience-with-mob-programming
 )
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
