@@ -2,8 +2,8 @@
 
 ## Talk Resources
 * [Slides](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/Testing%20Better%20with%20Approvals.pptx)
-* [Code](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/tree/main/src)
-* [Final Documentation](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/src/test/java/org/learnwithllew/week7/Week7.testConversations.approved.md)
+* [Code](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Java)
+* [Final Documentation](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Java/blob/main/src/test/java/org/learnwithllew/week7/Week7.testConversations.approved.md)
 * [ApprovalTests](https://github.com/approvals/)
 
 ## Videos
