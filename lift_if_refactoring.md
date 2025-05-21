@@ -12,7 +12,7 @@
 * Video's showing it in action:
   * [From 0% to Cleanly Refacted 100% tested code](https://www.youtube.com/watch?v=wp6oSVDdbXQ)  - Craft 2019 
 * [How to make intellij display full colored lines](https://stackoverflow.com/questions/32907247/how-to-make-intellij-idea-coverage-display-full-colored-lines)
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

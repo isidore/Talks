@@ -12,6 +12,7 @@
 
 
 ### Videos
+* [2025-01 Seattle Crafter Meetup](https://www.youtube.com/watch?v=792q5g1tdmo)
 * [2024-05-15 Meetup](https://www.youtube.com/watch?v=exD6CGWn-FQ)
 
 ## Related Talks
@@ -25,7 +26,7 @@
 * [English to Code](EnglishToCode.md)
 * [Fake it Till you Make it](FakeItTillYouMakeIt.md)<!-- endInclude -->
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

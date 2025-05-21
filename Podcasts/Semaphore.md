@@ -19,7 +19,7 @@
 * [Learn With Llew](https://github.com/LearnWithLlew)
 * [Ruby Koans](http://rubykoans.com/)
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

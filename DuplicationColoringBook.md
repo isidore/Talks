@@ -22,7 +22,7 @@
     * [Exercise 2 - Variables](https://www.youtube.com/watch?v=Fw-knDwOZTU)
 
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
