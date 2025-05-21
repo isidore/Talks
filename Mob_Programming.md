@@ -13,7 +13,7 @@
 * [MindMup Retro starter](https://t.co/kvp1nCI94P?amp=1)
 * [Mob Programming Pattern Langugage](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

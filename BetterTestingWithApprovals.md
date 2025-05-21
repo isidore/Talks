@@ -2,8 +2,8 @@
 
 ## Talk Resources
 * [Slides](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/Testing%20Better%20with%20Approvals.pptx)
-* [Code](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/tree/main/src)
-* [Final Documentation](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/src/test/java/org/learnwithllew/week7/Week7.testConversations.approved.md)
+* [Code](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Java)
+* [Final Documentation](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Java/blob/main/src/test/java/org/learnwithllew/week7/Week7.testConversations.approved.md)
 * [ApprovalTests](https://github.com/approvals/)
 
 ## Videos
@@ -16,7 +16,7 @@
 * [Lada - Images](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Lada_chat_gpt_for_images.png)
 * [Lada - Code Trie](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Lada_chat_gpt_for_code.pdf)
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

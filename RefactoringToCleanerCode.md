@@ -14,7 +14,7 @@
 * [Agile2023](https://github.com/LearnWithLlew/RefactoringToCleanerCode.java/commits/2023-07-27-Agile)
 
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

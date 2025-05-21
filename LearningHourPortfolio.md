@@ -28,7 +28,7 @@
 * [Samman Method Website](https://www.sammancoaching.org/)
 * [Felienne - Short Term Memory](https://www.youtube.com/watch?v=jjMlguOrWHc&t=1222s)
 
-## Llewellyn's<!-- include: llewellyn.md -->
+## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
