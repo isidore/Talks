@@ -4,6 +4,7 @@
 
 * [Slides](https://github.com/isidore/Talks/raw/master/Slides/Agentic%20AI%20and%20process%20files.pptx)
 * [AgenticAi.Java.StarterProject](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject)
+* [SuperWhisper](https://superwhisper.com/)
 
 
 
