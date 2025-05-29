@@ -6,6 +6,10 @@
 * [AgenticAi.Java.StarterProject](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject)
 * [SuperWhisper](https://superwhisper.com/)
 
+## Code
+* [Craft 2025](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/tree/craft-2025)
+   *   [Daily Status Email](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/craft-2025/docs/2025-05-29.CraftTalk.md) 
+
 
 
 ## About Llewellyn<!-- include: llewellyn.md -->
