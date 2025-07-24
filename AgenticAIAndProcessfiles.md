@@ -5,6 +5,7 @@
 * [Slides](https://github.com/isidore/Talks/raw/master/Slides/Agentic%20AI%20and%20process%20files.pptx)
 * [AgenticAi.Java.StarterProject](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject)
 * [SuperWhisper](https://superwhisper.com/)
+* [Vectorized Words](https://www.youtube.com/shorts/FJtFZwbvkI4)
 
 ## Code
 * [Montreal 2025](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/Montreal-2025/src/docs/data_scema.md) 
