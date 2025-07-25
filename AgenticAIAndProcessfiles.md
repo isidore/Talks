@@ -8,6 +8,7 @@
 * [Vectorized Words](https://www.youtube.com/shorts/FJtFZwbvkI4)
 
 ## Code
+* [Calgary 2025](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/tree/calgary-2025)
 * [Montreal 2025](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/Montreal-2025/src/docs/data_scema.md) 
 * [Craft 2025](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/tree/craft-2025)
    *   [Daily Status Email](https://github.com/LearnWithLlew/AgenticAi.Java.StarterProject/blob/craft-2025/docs/2025-05-29.CraftTalk.md)
