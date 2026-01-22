@@ -38,6 +38,8 @@ I offer **Team Coaching** in 2 week increments.
 ## Lada Kesseler<!-- include: lada.md. path: https://raw.githubusercontent.com/lexler/Talks/main/lada.md -->
 
 * [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
+* [Blog](https://lexler.substack.com/)
+* [Bluesky](https://bsky.app/profile/lexler.bsky.social)
 <!-- endInclude -->
 
 ## SketchNotes
