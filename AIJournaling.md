@@ -6,7 +6,8 @@
 * [SuperWhisper](https://superwhisper.com/)
 * [Agentic AI Patterns - Lada Kesseler](https://github.com/lexler/Talks/blob/main/augmented_coding_patterns.md)
 
-
+## Recordings
+* 2026 - [Seattle Software Crafers](https://www.youtube.com/watch?v=Qty9lSbXZQ0)
 
 ## About Llewellyn<!-- include: llewellyn.md -->
 
