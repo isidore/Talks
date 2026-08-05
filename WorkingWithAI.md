@@ -1,7 +1,7 @@
 # Working with AI - My First Four Weeks
 
 ## Talk Resources
-* [Slides](https://github.com/isidore/talks/blob/main/Slides/WorkingWithAI_MyFirst4Weeks.pptx)
+* [Slides](https://github.com/isidore/Talks/raw/refs/heads/master/Slides/WorkingWithAI_MyFirst4Weeks.pptx)
 
 
 ## About Llewellyn<!-- include: llewellyn.md -->
