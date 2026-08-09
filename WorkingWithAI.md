@@ -4,6 +4,10 @@
 * [Slides](https://github.com/isidore/Talks/raw/refs/heads/master/Slides/WorkingWithAI_MyFirst4Weeks.pptx)
 
 
+## Recordings
+* 2026 - [ Montreal Software Crafters](https://www.youtube.com/watch?v=XDJOCtEqIcQ)
+
+  
 ## About Llewellyn<!-- include: llewellyn.md -->
 
 * [Blog](https://llewellynfalco.blogspot.com/)
