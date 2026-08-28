@@ -14,6 +14,8 @@
 ](https://youtu.be/nc9kq9ZkNV8?si=K_9JqwJ46j1B1Q6J&t=314)
 * [Generative Fill with Photoshop](https://www.youtube.com/watch?v=a3LXB-lA-Qw&t=602s)
 * [Refactoring Prompts](https://github.com/isidore/Refactoring.ChatGPT.Prompts)
+* [Greenfield ideation prompt](https://web.archive.org/web/20250224155831/https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/#:~:text=Step%201%3A-,Idea%20honing,-Use%20a%20conversational)
+
 * [Vectoring Words](https://www.youtube.com/watch?v=L3D0JEA1Jdc)
 * [AI beats multiple World Records in Trackmania](https://www.youtube.com/watch?v=kojH8a7BW04)
 * [Attention Models](https://www.youtube.com/watch?v=eMlx5fFNoYc)
