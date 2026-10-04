@@ -7,7 +7,9 @@
 * [Agentic AI Patterns - Lada Kesseler](https://github.com/lexler/Talks/blob/main/augmented_coding_patterns.md)
 
 ## Recordings
+* 2026 - [Craft](https://www.youtube.com/watch?v=Gttvu9I1abo&list=PLEQ3Q_FcrvEo&index=12)
 * 2026 - [Seattle Software Crafers](https://www.youtube.com/watch?v=Qty9lSbXZQ0)
+  
 
 ## About Llewellyn<!-- include: llewellyn.md -->
 
