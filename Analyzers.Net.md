@@ -3,8 +3,10 @@
 ## Talk Resources
 * [Slides](https://github.com/isidore/Talks/blob/master/Slides/Analyzers.Net.pptx)
 * [Agentic AI Patterns - Lada Kesseler](https://github.com/lexler/Talks/blob/main/augmented_coding_patterns.md)
-* [Don't use the greater than sign in programming](https://llewellynfalco.blogspot.com/2016/02/dont-use-greater-than-sign-in.html)
-  
+* Don't use the greater than sign in programming
+    * [Blog](https://llewellynfalco.blogspot.com/2016/02/dont-use-greater-than-sign-in.html)
+    * [Slides](https://github.com/LearnWithLlew/lightning_talks/blob/main/slides/Do_NOT_use_the_greater_than_sign_in_programming_16x9.pptx)
+    * [Analyzer](https://github.com/LearnWithLlew/DoNotUseTheGreaterThanSign.Analyzer.Net/)
 
 
 ## About Llewellyn<!-- include: llewellyn.md -->
