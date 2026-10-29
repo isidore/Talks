@@ -1,5 +1,11 @@
 # AGENTS.md
 
+## Git LFS
+
+`.pptx` and `.pdf` files are stored in [Git LFS](https://git-lfs.com) (see `.gitattributes`).
+Install it once with `brew install git-lfs && git lfs install` before cloning or committing decks.
+If a deck in the working tree is a small text file starting with `version https://git-lfs`, run `git lfs pull`.
+
 ## Deterministic slides and PDFs
 
 Before committing a `.pptx` or `.pdf`, run [Determinize](https://github.com/SimonCropp/Determinize) on it,
