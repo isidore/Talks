@@ -10,7 +10,7 @@ The last slide of the deck shows a QR code that links to it.
    1. `# Talk title`, then an optional one-line tagline.
    1. `## Talk Resources`: the slides first, then the links mentioned in the talk.
    1. Other sections if needed, e.g. `## Code` or `## Example Repos`.
-   1. `## About Llewellyn`, ending the page exactly like the section at the bottom of this file.
+   1. `## About Llewellyn`, ending the page like the section at the bottom of this file.
 1. Link the slides with `/raw/` so they download:
    1. Slides in this repo: `https://github.com/isidore/Talks/raw/master/Slides/<file>.pptx` (spaces as `%20`).
    1. Slides in the talk's own repo: `https://github.com/LearnWithLlew/<Repo>/raw/main/slides/<file>.pptx`.
@@ -24,24 +24,9 @@ The last slide of the deck shows a QR code that links to it.
 
 ## The About Llewellyn section
 
-Every page ends with this. It is an include of `llewellyn.md`: the build (mdsnippets) fills in the text
-between the two HTML comments, so edit `llewellyn.md`, not the copy. Copy it from the raw view of this file.
+Every page ends with an `## About Llewellyn` heading followed by an include of `llewellyn.md` on its own line, like this.
+The build (mdsnippets) fills in the rest, so edit `llewellyn.md`, not the filled-in copy.
 
-## About Llewellyn<!-- include: llewellyn.md -->
+## About Llewellyn
 
-* [Blog](https://llewellynfalco.blogspot.com/)
-* [ApprovalTests](https://github.com/approvals/)
-* [YouTube](https://www.youtube.com/user/isidoreus/videos)
-* [Twitch](https://www.twitch.tv/llewellynfalco)
-* [Learn With Llew](https://github.com/LearnWithLlew)
-
-**Invite** me to [Speak at your conference](Speaking_at_conferences.md)
-
-*or*  
-I'm a [Samman Technical Coach](https://sammancoaching.org/). You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)  
-I offer **Team Coaching** in 2 week increments.
-* **Remote**: 1 team, 2.5 hrs/day  
-    * **Add-Ons**: [Learning Hour, Coach the Coaches]
-* **In-Person:**  3 teams a day + Learning hour
-
-<!-- endInclude -->
+include: llewellyn.md
