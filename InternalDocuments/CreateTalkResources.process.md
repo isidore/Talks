@@ -10,7 +10,7 @@ The last slide of the deck shows a QR code that links to it.
    1. `# Talk title`, then an optional one-line tagline.
    1. `## Talk Resources`: the slides first, then the links mentioned in the talk.
    1. Other sections if needed, e.g. `## Code` or `## Example Repos`.
-   1. `## About Llewellyn` with the `<!-- include: llewellyn.md -->` block, copied as is from another page.
+   1. `## About Llewellyn` copied as is from another page, including the HTML comments around it (the build fills it in from `llewellyn.md`).
 1. Link the slides with `/raw/` so they download:
    1. Slides in this repo: `https://github.com/isidore/Talks/raw/master/Slides/<file>.pptx` (spaces as `%20`).
    1. Slides in the talk's own repo: `https://github.com/LearnWithLlew/<Repo>/raw/main/slides/<file>.pptx`.
