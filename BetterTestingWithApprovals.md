@@ -16,7 +16,8 @@
 * [Lada - Images](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Lada_chat_gpt_for_images.png)
 * [Lada - Code Trie](https://github.com/LearnWithLlew/TestingBetterWithApprovals.Slides/blob/main/slides/resources/Lada_chat_gpt_for_code.pdf)
 
-## About Llewellyn<!-- include: llewellyn.md -->
+<!-- include: llewellyn.md -->
+## About Llewellyn
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
@@ -35,7 +36,8 @@ I offer **Team Coaching** in 2 week increments.
 
 <!-- endInclude -->
 
-## Lada Kesseler<!-- include: lada.md. path: https://raw.githubusercontent.com/lexler/Talks/main/lada.md -->
+<!-- include: lada.md. path: https://raw.githubusercontent.com/lexler/Talks/main/lada.md -->
+## Lada Kesseler
 
 * [LinkedIn](https://www.linkedin.com/in/lada-kesseler/)
 * [Blog](https://lexler.substack.com/)

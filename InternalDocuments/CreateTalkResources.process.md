@@ -27,7 +27,8 @@ The last slide of the deck shows a QR code that links to it.
 Every page ends with an include of `llewellyn.md` on its own line, like the one below.
 The build (mdsnippets) fills in the heading and the text, so edit `llewellyn.md`, not the filled-in copy.
 
-## About Llewellyn<!-- include: llewellyn.md -->
+<!-- include: llewellyn.md -->
+## About Llewellyn
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

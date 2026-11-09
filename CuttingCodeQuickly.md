@@ -12,7 +12,8 @@
 * [The Code - find the right branch](https://github.com/isidore/GildedRose_Demo/tree/2019DeliverAgile)  
 
 
-## About Llewellyn<!-- include: llewellyn.md -->
+<!-- include: llewellyn.md -->
+## About Llewellyn
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

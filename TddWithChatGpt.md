@@ -16,17 +16,20 @@
 * [2024-05-15 Meetup](https://www.youtube.com/watch?v=exD6CGWn-FQ)
 
 ## Related Talks
-### AI Talks<!-- include: ai.md -->
+<!-- include: ai.md -->
+### AI Talks
 * [Tdd With ChatGPT](TddWithChatGpt.md)
 * [ChatGPT Prompting](ChatGPTPrompting.md)<!-- endInclude -->
-### TDD Talks<!-- include: tdd.md -->
+<!-- include: tdd.md -->
+### TDD Talks
 * [Tdd With ChatGPT](TddWithChatGpt.md)
 * [Agile Technical Practices](AgileTechnicalPractices.md)
 * [BDD vs Evil Programmer](BDDvsEvilProgrammer.md)
 * [English to Code](EnglishToCode.md)
 * [Fake it Till you Make it](FakeItTillYouMakeIt.md)<!-- endInclude -->
 
-## About Llewellyn<!-- include: llewellyn.md -->
+<!-- include: llewellyn.md -->
+## About Llewellyn
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

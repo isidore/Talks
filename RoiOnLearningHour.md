@@ -17,7 +17,8 @@
 * [Technical Agile Coaching with the Samman method by Emily Bache](https://leanpub.com/techagilecoach)
 * [Samman Method Website](https://www.sammancoaching.org/)
 
-## About Llewellyn<!-- include: llewellyn.md -->
+<!-- include: llewellyn.md -->
+## About Llewellyn
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)

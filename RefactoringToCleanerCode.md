@@ -14,7 +14,8 @@
 * [Agile2023](https://github.com/LearnWithLlew/RefactoringToCleanerCode.java/commits/2023-07-27-Agile)
 
 
-## About Llewellyn<!-- include: llewellyn.md -->
+<!-- include: llewellyn.md -->
+## About Llewellyn
 
 * [Blog](https://llewellynfalco.blogspot.com/)
 * [ApprovalTests](https://github.com/approvals/)
@@ -33,7 +34,8 @@ I offer **Team Coaching** in 2 week increments.
 
 <!-- endInclude -->
 
-## Jay Bazuzi<!-- include: jay.md -->
+<!-- include: jay.md -->
+## Jay Bazuzi
 
 * [Blog](https://jay.bazuzi.com/)
 * [Mastodon](https://mastodon.online/@JayBazuzi)
